@@ -1,7 +1,10 @@
 # Vietnamese News Classification
 
 ## Demo App
-You can try Demo at this url: https://huggingface.co/spaces/danhtran2mind/Vietnamese-News-Classification
+
+- You can try Demo at this url: https://huggingface.co/spaces/danhtran2mind/Vietnamese-News-Classification
+- This image below is example: ![Demo App Screenshot](https://github.com/danhtran2mind/Vietnamese-News-Classification/blob/main/visualization/demo_app.png)
+
 
 ## Enviroment:
 - OS: Linux
