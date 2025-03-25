@@ -1,0 +1,8 @@
+Tiềm năng tổng hợp thuốc và thức ăn nhân tạo từ CO2
+Các nhà khoa học Trung Quốc đã phát triển một phương pháp mới để chuyển đổi carbon dioxide và nước thành glucose và axit béo.
+Nhóm nghiên cứu từ Đại học Khoa học và Công nghệ Điện tử Trung Quốc, Viện Công nghệ Tiên tiến Thâm Quyến và Đại học Khoa học và Công nghệ Trung Quốc đã tạo ra một hệ thống sinh học điện hybrid, kết hợp quá trình điện phân carbon dioxide (CO2) trong không gian với quá trình lên men nấm men, giúp chuyển hóa carbon dioxide thành glucose một cách hiệu quả với năng suất cao.
+Đầu tiên, họ chuyển đổi carbon dioxide thành axit axetic tinh khiết thông qua một lò phản ứng điện phân với chất xúc tác đồng có cấu trúc nano, sau đó sử dụng nấm men biến đổi gene để sản xuất glucose trong ống nghiệm từ axit axetic. Phương pháp này cũng được chứng minh là có khả năng tạo ra các sản phẩm khác như axit béo.
+"Quá trình này có thể được hiểu là chuyển hóa carbon dioxide thành giấm và nuôi men để tạo ra glucose và axit béo", tác giả chính của nghiên cứu Zeng Jie từ Đại học Khoa học và Công nghệ Trung Quốc mô tả.
+Các nhà nghiên cứu cho biết việc biến đổi carbon dioxide thành các sản phẩm giá trị gia tăng thể hiện khả năng đáng kinh ngạc của một ngành sản xuất sử dụng điện tái tạo, mở ra cơ hội để giải quyết các vấn đề môi trường và đạt được một nền kinh tế tuần hoàn.
+"Với một lò phản ứng điện phân và các vi sinh vật khác nhau, chúng ta có thể sản xuất tinh bột nhân tạo, chất màu hoặc thuốc trong tương lai", đồng tác giả Xia Chuan từ Đại học Khoa học và Công nghệ Điện tử Trung Quốc nói thêm.
+Công trình nghiên cứu đã được xuất bản trên tạp chí Nature-Catallysis vào tuần trước.

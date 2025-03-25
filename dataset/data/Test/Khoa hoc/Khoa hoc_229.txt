@@ -1,0 +1,7 @@
+Robot hình người bảo trì đường sắt
+Nhật BảnRobot khổng lồ điều khiển bằng công nghệ thực tế ảo và di chuyển nhờ xe cần trục sẽ giúp các công nhân bảo trì đường sắt an toàn và hiệu quả hơn.
+Công ty đường sắt miền Tây Nhật Bản chia sẻ video ghi hình robot hình người mới. Đặt ở cuối cần trục, robot bán thân có hình dáng giống nhân vật trong phim Gundam mô phỏng chuyển động đầu và tay của người điều khiển. Người này sẽ quan sát qua mắt của robot nhờ kính thực tế ảo.
+Theo công ty, những mục tiêu quan trọng của họ là cải thiện năng suất và độ an toàn, cho phép công nhân nâng và điều khiển thiết bị nặng xung quanh hệ thống đường sắt, đồng thời tránh nguy cơ bị điện giật hoặc ngã. Phần thân lớn của robot được đặt trên cần trục thủy lực, chạy dọc hệ thống đường sắt bằng xe chuyên dụng, nhờ đó không cần sử dụng phần chân.
+Người điều khiển đeo kính thực tế ảo theo dõi chuyển động để kiểm soát cử động của phần đầu robot nhờ kỹ thuật thị giác nổi (stereo vision). Thông qua cầm nắm hai cần điều khiển, người đó có thể dịch chuyển cánh tay robot. Nếu có ngoại lực tác động tới tay robot, chuyển động sẽ được phản hồi ngược lại tới người điều khiển.
+Trong video do công ty chia sẻ trên mạng Twitter hôm 15/4, robot có thể nâng và đặt vào vị trí một số bộ phận cỡ lớn cũng như dọn vệ sinh cấu trúc đường sắt trên cao bằng một cây cọ đặc biệt xoay được nhiều góc. Nó cầm nắm tất cả dụng cụ bằng cách kẹp như vỏ sò, dù hoạt động ở tốc độ tương đối chậm.
+Công ty đường sắt miền Tây Nhật Bản hợp tác phát triển cỗ máy cùng với công ty Human Machinery và Nippon Signal.

@@ -1,0 +1,13 @@
+Drone siêu nhẹ có thể bay 24 phút
+Nhờ quả cây phong, nhóm chuyên gia Hong Kong phát triển mẫu drone nặng 35 gram với thời gian bay vượt trội so với các drone khối lượng tương đương.
+Nhóm nghiên cứu tại Đại học Thành phố Hong Kong phát triển drone hai cánh siêu nhẹ có thời gian bay hơn gấp đôi so với những drone dưới 100 gram khác, SCMP hôm 11/5 đưa tin. Nghiên cứu mới công bố trên tạp chí Science Robotics.
+Mẫu drone mới nặng 35 gram, có thể trang bị cảm biến chất lượng không khí nhỏ hoặc camera để thực hiện các nhiệm vụ khảo sát và lập bản đồ. Thiết bị bay được khoảng 15 - 24 phút, tùy thuộc kích thước pin.
+Cơ chế khí động học của những cỗ máy nhỏ khiến chúng khó bay hơn, theo trưởng nhóm nghiên cứu Pakpong Chirarattananon, phó giáo sư khoa kỹ thuật y sinh tại Đại học Thành phố Hong Kong. "Với drone nhỏ hơn, các lực như ma sát hoặc lực cản trở nên áp đảo hơn. Kể cả khi chúng ta có thể chế tạo những robot nhỏ bay được, chúng cũng không thể bay trong thời gian dài", ông nói.
+Một chiếc drone nặng 500 gram bay được khoảng 20 - 30 phút. Tuy nhiên, thời lượng này có thể giảm xuống còn 5 phút với drone nặng 50 - 100 gram, theo Chirarattananon.
+Để giảm mức tiêu thụ năng lượng của drone, nhóm chuyên gia nghiên cứu quả cánh của cây phong Nhật Bản. Quả cánh xoay tròn khi rơi giúp giảm tốc độ, kéo dài thời gian lơ lửng trên không trung, nhờ đó được thổi đi xa hơn và tăng cơ hội sinh sản cho cây.
+"Drone thương mại thường có 4 cánh quạt thẳng đứng để tạo ra lực đẩy hướng lên. Nhưng chúng tôi sử dụng cánh quạt để tạo ra chuyển động quay và đặt các cánh lớn trên thân drone, tương tự như quả cây phong", Chirarattananon giải thích.
+"Chúng tôi gắn các cánh làm bằng màng nhựa mỏng vào drone, nhưng vẫn cho phép nó lơ lửng tại chỗ", Chirarattananon nói. Ông so sánh thiết bị mới với các máy bay có cánh lớn và luôn phải tiến về phía trước, đòi hỏi đường băng dài để cất hạ cánh.
+Vì drone luôn xoay, camera gắn trên đó cũng sẽ xoay liên tục để ghi hình 360 độ. Drone cũng có thể bay qua các khu vực đô thị một cách an toàn nếu được pháp luật cho phép, theo Chirarattananon.
+"Mẫu drone này rất nhẹ, chỉ khoảng 30 - 50 gram, nên không chở được nhiều. Nhưng ưu điểm là nó rất an toàn khi hoạt động ở những khu vực đông đúc. Nếu xảy ra sự cố và bị hỏng, nó cũng không có khả năng gây thương tích cho bất cứ ai", ông nói.
+Tại Hong Kong, drone không thể bay qua các khu vực đông dân cư, theo Cơ quan Hàng không Dân dụng Hong Kong. Drone nặng hơn 7 kg cũng không được phép bay trong thành phố.
+Nhóm nghiên cứu hy vọng mẫu drone mới - đã được phát triển trong ba năm - có thể sẵn sàng ra mắt trong vài năm tới, sau khi cải tiến độ bền và hệ thống lái tự động để người ít kinh nghiệm cũng có thể dễ dàng điều khiển.

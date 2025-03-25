@@ -1,0 +1,10 @@
+Phát hiện cách chữa đột quỵ bị lãng quên hàng thập kỷ
+MỹCác chuyên gia tại Đại học Washington phát hiện một cách điều trị đột quỵ hiệu quả nhưng bị lãng quên hàng thập kỷ nhờ vào các dấu hiệu di truyền của bệnh nhân.
+Phân tích hơn 5.000 bộ gene của bệnh nhân đột quỵ do thiếu máu cục bộ, nhóm nghiên cứu tìm thấy hai dấu hiệu di truyền có thể quyết định tình trạng bệnh nhân trong 24 giờ sau đột quỵ. Hai gene nổi bật là ADAM32 và GluR1. Cả hai gene đều liên quan đến hoạt động của một chất dẫn truyền thần kinh gọi là glutamate.
+Glutamate là axit amin tự do phổ biến nhất trong não không liên kết với protein. Các nhà khoa học rất ngạc nhiên khi phát hiện glutamate có khả năng làm tăng cơ hội kích hoạt tế bào thần kinh, được gọi là hiệu ứng hưng phấn.
+Quá nhiều glutamate có thể "kích thích" các tế bào chết, gây tình trạng "nhiễm độc kích thích", từ đó dẫn đến đột quỵ. Những thí nghiệm lâm sàng thất bại cách đây nhiều thập kỷ khiến các nhà khoa học từ bỏ ý tưởng này.
+"Giới chuyên gia từ lâu thắc mắc liệu độc tố kích thích có thực sự quan trọng trong việc phục hồi đột quỵ ở người hay không", Jin-Moo Lee, trưởng khoa thần kinh Đại học Washington, đồng tác giả nghiên cứu, cho biết.
+Việc ngăn chặn chất độc tố kích thích có thể chữa khỏi đột quỵ ở chuột. Tuy nhiên, mọi thử nghiệm thuốc ức chế glutamate ở người đều thất bại. Phát hiện mới về hai gene di truyền ở các bệnh nhân có thể ảnh hưởng đến việc điều trị độc tố thần kinh và phục hồi sau đột quỵ.
+"Điều này rất đáng chú ý. Đây là bằng chứng di truyền đầu tiên cho thấy vấn đề độc tố kích thích xảy ra cả ở người chứ không chỉ ở chuột", Lee nói.
+Các nhà nghiên cứu tin rằng công trình của họ cho thấy kiểm soát glutamate và độc tố thần kinh có thể là phương pháp tiềm năng ngăn ngừa đột quỵ.
+Hiện các bác sĩ chủ yếu sử dụng thuốc chống đông máu để điều trị đột quỵ do thiếu máu cục bộ. Thuốc giúp khôi phục lượng máu đến não, giúp ngăn ngừa tổn thương và hỗ trợ chức năng não bộ.

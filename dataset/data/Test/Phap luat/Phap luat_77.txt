@@ -1,0 +1,16 @@
+Câu đố: Sát thủ nào khai gian dối?
+Bạn hãy dựa trên các dữ liệu có sẵn và suy luận để phát hiện kẻ nói dối điều tra viên hòng thoát tội.
+Câu 1: Anna, Mia và Ellie là bộ ba sát thủ thân thiết. Họ là nghi phạm trong cùng một vụ án và đang bị giam riêng biệt. Cả ba bị cáo buộc sát hại một người đàn ông. Thẩm phán đề nghị một thỏa thuận nhận tội. Nếu một trong ba thú nhận và khai chi tiết hành vi phạm tội, người đó sẽ được phóng thích.
+Trong phòng thẩm vấn riêng, Anna khăng khăng không bao giờ nói ra ai là thủ phạm, nhưng khẳng định không phải mình. Mia nói không biết gì về vụ án mạng vì không có mặt khi nạn nhân bị sát hại. Ellie nói Mia bị mộng du, tối qua Mia đánh thức cô và thú nhận đã sát hại người đàn ông nọ.
+Ai đang nói dối?
+>>Đáp án
+Câu 2: Bob và Tod là anh em sinh đôi có nhiều tiền án tiền sự. Hôm nay, một trong hai đi cướp ngân hàng và bị bắt. Nhưng cảnh sát không biết tên này là Bob hay Tod, chỉ biết rằng Bob luôn nói thật còn Tod luôn nói dối.
+Thám tử chỉ cần hỏi hai câu để tìm ra ai cướp ngân hàng. Đó là hai câu nào?
+>>Đáp án
+Câu 3: Một kẻ bắt cóc liên tục gây án trong thị trấn. Cảnh sát lắp camera giám sát ở khắp các công viên và tìm được ba kẻ đáng ngờ. Cảnh sát lần lượt hỏi họ đến công viên làm gì.
+Claude nói đến dự sinh nhật cháu ở ngay cạnh công viên và cho cảnh sát xem hai túi quà. Dana cho biết đang đi tìm mèo cưng chạy khỏi nhà từ sáng. Eric nói chỉ đi dạo một mình với sôcôla ăn vặt và chẳng nhìn thấy ai khác.
+Ai là kẻ bắt cóc?
+>>Đáp án
+Câu 4: Mary đang chuẩn bị bữa tiệc tối thịnh soạn trong bếp. Một tiếng sau, cô được phát hiện đã chết. Cảnh sát được gọi đến và nhanh chóng xác định ba nghi phạm là người bạn Anna, bạn trai Henry, hàng xóm Jane. Họ còn phát hiện Mary đã để lại ba manh mối giúp tìm hung thủ là một chiếc găng tay, một chiếc giày và một chiếc dép đi trong nhà.
+Cảnh sát yêu cầu ba nghi phạm viết lời khai về những việc họ đã làm trong thời gian xảy ra án mạng. Dựa trên manh mối, bạn có đoán ra ai là hung thủ?
+>>Đáp án

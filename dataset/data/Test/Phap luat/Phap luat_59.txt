@@ -1,0 +1,9 @@
+Người Hà Nội có thể ngồi ở nhà làm thủ tục cấp hộ chiếu
+Người dân chỉ cần truy cập Cổng dịch vụ công trực tuyến của Bộ Công an để làm thủ tục cấp hộ chiếu phổ thông mà không cần đến tận nơi như hiện nay.
+Từ 15/5, Cục Quản lý xuất nhập cảnh phối hợp cùng Phòng Quản lý xuất nhập cảnh Công an Hà Nội thí điểm cấp hộ chiếu "điện tử". Sau Hà Nội, dự kiến từ 1/6 hình thức này sẽ triển khai trên toàn quốc.
+Đại diện Cục Quản lý xuất nhập cảnh, cho biết đây là cách làm mới hoàn toàn so với quy định hiện hành bởi công dân có thể chủ động khai tờ khai đề nghị cấp hộ chiếu qua mạng vào bất kỳ thời gian, địa điểm nào mà không phải đến cơ quan xuất nhập cảnh để xếp hàng nộp tờ khai, chụp ảnh.
+"Việc triển khai 'hồ sơ số hóa' sẽ giảm áp lực giấy tờ lên cơ quan nhà nước, giảm thiểu việc tiếp xúc trực tiếp với cán bộ; từ đó hạn chế tiêu cực, phiền hà", vị đại diện nói.
+Thủ tục cấp hộ chiếu phổ thông qua dịch vụ công trực tuyến nhằm thực hiện đề án của Chính phủ về phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia. Khi sử dụng dịch vụ công trực tuyến, công dân sẽ giảm thiểu số lần đi lại, thời gian chờ đợi nộp hồ sơ, nhận kết quả.
+Quy trình cấp hộ chiếu phổ thông qua Cổng dịch vụ công như sau:
+- Người dân truy cập Cổng dịch vụ công trực tuyến của Bộ Công an (dichvucong.bocongan.gov.vn) để đăng nhập, điền đầy đủ thông tin đề nghị cấp hộ chiếu theo mẫu X01, địa chỉ email, tải lên ảnh chân dung (để in trên hộ chiếu).
+- Chọn hình thức nhận hộ chiếu (chuyển phát tận nhà hoặc đến cơ quan xuất nhập cảnh nhận trực tiếp), địa chỉ nhận hộ chiếu, thanh toán lệ phí trực tuyến khi được cán bộ tiếp nhận hồ sơ gửi yêu cầu.

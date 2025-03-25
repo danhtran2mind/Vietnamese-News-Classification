@@ -1,0 +1,2 @@
+Pin hoạt động như thế nào?
+Khi cực dương và cực âm được nối thành một đoạn mạch, phản ứng xảy ra bên trong pin giúp chuyển năng lượng hóa học thành điện năng.

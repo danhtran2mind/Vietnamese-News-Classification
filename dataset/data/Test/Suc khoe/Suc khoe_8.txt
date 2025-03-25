@@ -1,0 +1,9 @@
+Chỉnh sửa gene não để chữa nghiện rượu
+Nghiên cứu do các chuyên gia Đại học Illinois Chicago thực hiện cho thấy chỉnh sửa gene có thể là phương pháp tiềm năng để điều trị rối loạn lo âu và lạm dụng rượu bia.
+Trong công trình trước đó, nhóm nhà khoa học trên phát hiện uống rượu ở tuổi vị thành niên có thể tạo ra những thay đổi về hóa học tại vùng gene ARC - gene chịu trách nhiệm điều hòa hoạt động của các protein liên kết với tế bào.
+Quá trình tái lập trình tế bào của gene ARC trong trung tâm cảm xúc và trí nhớ của não góp phần gây ra chứng lo âu và lạm dụng rượu bia ở tuổi trưởng thành. Hoạt động này duy trì suốt cuộc đời, song có thể đảo ngược bằng việc chỉnh sửa gene.
+"Uống rượu bia khi còn trẻ có thể ảnh hưởng lâu dài và đáng kể đến não bộ. Kết quả của nghiên cứu cho thấy chỉnh sửa gene là cách điều trị tiềm năng cho những tác động này, giúp phục hồi chức năng não bộ", Subhash Pandey, giáo sư tâm thần học, Giám đốc Trung tâm Nghiên cứu Rượu trong Di truyền biểu sinh tại UIC, cho biết.
+Pandey và các đồng nghiệp đã sử dụng công cụ chỉnh sửa gene có tên CRISPR-dCas9 để điều khiển quá trình acetyl hóa và methyl hóa histone ở gene ARC trong mô hình chuột trưởng thành.
+Đầu tiên, các chuyên gia đã nghiên cứu những con chuột trưởng thành được cho uống rượu ở tuổi tương đương với độ tuổi từ 10 đến 18 của con người. Sau đó, họ nhận thấy phương pháp chỉnh sửa gene Cas9 khiến chỉ số lo lắng và tỷ lệ uống rượu giảm.
+"Uống rượu quá độ ở tuổi vị thành niên là vấn đề sức khỏe cộng đồng nghiêm trọng. Nghiên cứu giúp chúng ta hiểu rõ hơn về những gì đã xảy ra trong bộ não phát triển khi tiếp xúc với nồng độ cồn. Quan trọng hơn, chúng mở ra cánh cửa điều trị chứng lạm dụng rượu bia và rối loạn lo âu từ tuổi vị thành niên", giáo sư Pandey, chuyên viên cấp cao tại Trung tâm Y tế Jesse Brown VA, cho biết.
+Kết quả đăng trên tạp chí Science Advances.

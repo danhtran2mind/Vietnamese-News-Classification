@@ -1,0 +1,2 @@
+Máy phát hiện nói dối hoạt động như thế nào?
+Dựa vào tín hiệu nhịp thở, mạch, huyết áp, mồ hôi và chuyển động của chân tay, các cảm biến có thể phát hiện ai đó đang nói dối.

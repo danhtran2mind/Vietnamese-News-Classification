@@ -1,0 +1,6 @@
+kaggle==1.6.17
+underthesea==6.8.4
+cuml-cu12==24.12.0
+seaborn==0.13.2
+tensorflow==2.18.0
+gradio
