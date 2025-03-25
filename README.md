@@ -3,6 +3,10 @@
 ## Demo App
 You can try Demo at this url: https://huggingface.co/spaces/danhtran2mind/Vietnamese-News-Classification
 
+## Enviroment:
+- OS: Linux
+- Python: version 3.10.12
+
 ## How to Use
 
 ### Run Gradio app
