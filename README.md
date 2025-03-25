@@ -1,1 +1,4 @@
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Vietnamese News Classification
+
+## Demo App
+You can try Demo at this url: https://huggingface.co/spaces/danhtran2mind/Vietnamese-News-Classification
