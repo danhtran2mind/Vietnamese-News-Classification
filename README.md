@@ -9,7 +9,7 @@ You can try Demo at this url: https://huggingface.co/spaces/danhtran2mind/Vietna
 ```python
 python app.py
 ```
-Your app will run at: localhost:7860
+Your app will run at: `localhost:7860`.
 ### Example result
 - Input:
 ```
