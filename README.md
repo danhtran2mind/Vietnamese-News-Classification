@@ -6,10 +6,15 @@ You can try Demo at this url: https://huggingface.co/spaces/danhtran2mind/Vietna
 ## How to Use
 
 ### Run Gradio app
+- Install Dependencies:
+```
+pip install -r requirements.txt
+```
+- Run app
 ```python
 python app.py
 ```
-Your app will run at: `localhost:7860`.
+- Your app will run at: `localhost:7860`.
 ### Example result
 - Input:
 ```
