@@ -5,7 +5,6 @@
 - You can try Demo at this url: https://huggingface.co/spaces/danhtran2mind/Vietnamese-News-Classification
 - This image below is example: ![Demo App Screenshot](https://github.com/danhtran2mind/Vietnamese-News-Classification/blob/main/visualization/demo_app.png)
 
-
 ## Enviroment:
 - OS: Linux
 - Python: version 3.10.12
@@ -51,3 +50,8 @@ Ngoài cuộc đọ sức giữa Indonesia và Bahrain, lượt trận thứ 8 v
 ```
 The thao
 ```
+## Metric
+### My Model
+
+### Others ML model
+
