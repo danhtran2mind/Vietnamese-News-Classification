@@ -13,11 +13,11 @@
 
 ### Run Gradio app
 - Install Dependencies:
-```
+```bash
 pip install -r requirements.txt
 ```
 - Run app
-```python
+```bash
 python app.py
 ```
 - Your app will run at: `localhost:7860`.
@@ -46,10 +46,21 @@ Ngoài cuộc đọ sức giữa Indonesia và Bahrain, lượt trận thứ 8 v
 ```
 
 - Output:
-
-```
-The thao
-```
+  - Predicted News Category:
+  ```
+  The thao
+  ```
+  - Category Probabilities:
+  ```
+  Doi song: 0.09%
+  Khoa hoc: 0.01%
+  Kinh doanh: 0.02%
+  Phap luat: 0.34%
+  Suc khoe: 0.01%
+  The gioi: 0.09%
+  The thao: 99.10%
+  Van hoa: 0.36%
+  ```
 ## Metric
 ### My Model
 
