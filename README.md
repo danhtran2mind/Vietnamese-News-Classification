@@ -52,14 +52,14 @@ Ngoài cuộc đọ sức giữa Indonesia và Bahrain, lượt trận thứ 8 v
   ```
   - Category Probabilities:
   ```
-  Doi song: 0.09%
-  Khoa hoc: 0.01%
-  Kinh doanh: 0.02%
-  Phap luat: 0.34%
-  Suc khoe: 0.01%
-  The gioi: 0.09%
   The thao: 99.10%
   Van hoa: 0.36%
+  Phap luat: 0.34%
+  The gioi: 0.09%
+  Doi song: 0.09%
+  Kinh doanh: 0.02%
+  Khoa hoc: 0.01%
+  Suc khoe: 0.01%
   ```
 ## Metric
 ### My Model
