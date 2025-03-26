@@ -30,20 +30,25 @@ def predict_news_type(content):
     content = pad_sequences(content, maxlen=MAX_LEN, padding='post')
     content_predict = model.predict(content, verbose=0)
     result = np.argmax(content_predict, axis=1)
-    return f"{label_dict[str(result[0])]}"
+    category = label_dict[str(result[0])]
+    
+    # Get all categories and their probabilities
+    probabilities = content_predict[0].tolist()
+    category_probabilities = {label_dict[str(i)]: prob for i, prob in enumerate(probabilities)}
+    
+    return category, category_probabilities
 
 # Create Gradio Interface
 demo = gr.Interface(
     fn=predict_news_type,
     inputs=gr.Textbox(label="Enter the news content"),
-    outputs=gr.Textbox(label="Predicted News Category"),
+    outputs=[
+        gr.Textbox(label="Predicted News Category"),
+        gr.JSON(label="Category Probabilities")
+    ],
     title="News Type Prediction",
-    description="Enter the news content to predict its category."
+    description="Enter the news content to predict its category and see the probabilities for all categories."
 )
-
 if __name__ == "__main__":
     # Launch the Gradio Interface
-    host = "127.0.0.1"
-    port = 7860
-    print(f"Gradio app is running on {host}:{port}")
-    demo.launch(server_name=host, server_port=port)
+    demo.launch()
